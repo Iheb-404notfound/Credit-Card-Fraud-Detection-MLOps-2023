@@ -27,26 +27,15 @@ project-root/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo.git
+[git clone https://github.com/your-username/your-repo.git](https://github.com/Iheb-404notfound/Credit-Card-Fraud-Detection-MLOps-2023)
 
 # Navigate to the project directory
-cd your-repo
-
-# Install dependencies
-pip install -r requirements.txt
+cd Fraud-Detection
 
 # Run the project
-python src/model_training.py
+python run_deployment.py
 ```
 
-## MLOps Workflow
-
-Describe the MLOps workflow implemented in your project using MLFlow and ZenML. Include details on:
-
-- Data versioning
-- Model versioning
-- Model tracking
-- Deployment
 
 ## Usage
 
