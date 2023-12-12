@@ -1,7 +1,5 @@
 # Credit-Card-Fraud-Detection-MLOps-2023
 
-Certainly! Here's a simplified README.md template without mentioning the specific contents of your folders:
-
 ```markdown
 # Fraud Detection with MLOps using MLFlow and ZenML
 
