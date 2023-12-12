@@ -74,4 +74,3 @@ This project is simple to use just run the run_deployment.py with a --config of 
 Iheb Gafsi
 ```
 
-Feel free to customize this template further based on your project's specific details and requirements.
